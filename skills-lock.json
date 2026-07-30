@@ -97,11 +97,23 @@
       "skillPath": "skills/csharp-coding-standards/SKILL.md",
       "computedHash": "38d6547db382a391ed740eef9d376f718639d27ecafe5bdedb981001b190acc9"
     },
+    "plan-feature": {
+      "source": "alefcarlos/agentic-workflow",
+      "sourceType": "github",
+      "skillPath": "skills/plan-feature/SKILL.md",
+      "computedHash": "22b9c95a0ad6c53201f755eff592482ca045747b66f0173ac65b9b78c0429a09"
+    },
     "platform-detection": {
       "source": "dotnet/skills",
       "sourceType": "github",
       "skillPath": "plugins/dotnet-test/skills/platform-detection/SKILL.md",
       "computedHash": "3612832d22176c7bcdb7feabca0e9e8cffc19791e7d418019b03a5c556139460"
+    },
+    "refinar-task": {
+      "source": "alefcarlos/agentic-workflow",
+      "sourceType": "github",
+      "skillPath": "skills/refinar-task/SKILL.md",
+      "computedHash": "a3bd35209deb202a98c9b02a8cd90140105a59b039a73223de3eae7433df615c"
     }
   }
 }

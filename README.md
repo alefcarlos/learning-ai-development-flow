@@ -5,3 +5,9 @@
 ```
 npx skills experimental_install
 ```
+
+## install backlog.md
+
+```
+npm i -g backlog.md
+```
