@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "skills": {
+    "adr-scribe": {
+      "source": "muthub-ai/c4-skills",
+      "sourceType": "github",
+      "skillPath": "adr-scribe/SKILL.md",
+      "computedHash": "e214fa63629c067c17bc572f6e02e614e6ec709e8d4fc6d0e4ebafd3c425a060"
+    },
+    "aspire-configuration": {
+      "source": "Aaronontheweb/dotnet-skills",
+      "sourceType": "github",
+      "skillPath": "skills/aspire-configuration/SKILL.md",
+      "computedHash": "1c7b3649c352961607e5a07429484dafac98d391cef6e6cc56eb9ead8308302f"
+    },
+    "aspire-integration-testing": {
+      "source": "Aaronontheweb/dotnet-skills",
+      "sourceType": "github",
+      "skillPath": "skills/aspire-integration-testing/SKILL.md",
+      "computedHash": "024b6015e73175bb99b4b08bac7b1d8f2dd2e93416bc8e31f0cd17973a69b5c1"
+    },
+    "aspire-service-defaults": {
+      "source": "Aaronontheweb/dotnet-skills",
+      "sourceType": "github",
+      "skillPath": "skills/aspire-service-defaults/SKILL.md",
+      "computedHash": "fec7db071c3715d61532ef06529b4b8129b03c41676a0ace62d95093a1d26166"
+    },
+    "c4-architecture": {
+      "source": "softaworks/agent-toolkit",
+      "sourceType": "github",
+      "skillPath": "skills/c4-architecture/SKILL.md",
+      "computedHash": "9192b5d6be529478a70d1a73f3d4ce83db12c2052c4e6df4accd445f21e906d4"
+    },
+    "configuring-opentelemetry-dotnet": {
+      "source": "dotnet/skills",
+      "sourceType": "github",
+      "skillPath": "plugins/dotnet-aspnetcore/skills/configuring-opentelemetry-dotnet/SKILL.md",
+      "computedHash": "736b7476710267bd46154714f38e16f5bac5498ce6a9aa980eb1d0a214960890"
+    },
+    "crap-analysis": {
+      "source": "Aaronontheweb/dotnet-skills",
+      "sourceType": "github",
+      "skillPath": "skills/crap-analysis/SKILL.md",
+      "computedHash": "0999d68191c41b664489c1ecaf5c27b2431efc8c78c763906b66b335547c7d02"
+    },
+    "csharp-concurrency-patterns": {
+      "source": "Aaronontheweb/dotnet-skills",
+      "sourceType": "github",
+      "skillPath": "skills/csharp-concurrency-patterns/SKILL.md",
+      "computedHash": "2ce0c63b105f13d60d5a4623da8316fe81a70eac1015e216d1d9978ac024e462"
+    },
+    "dependency-injection-patterns": {
+      "source": "Aaronontheweb/dotnet-skills",
+      "sourceType": "github",
+      "skillPath": "skills/microsoft-extensions-dependency-injection/SKILL.md",
+      "computedHash": "2b94c9f3cefb33291d543661bf2d5224b35f385be9a07e21b772760a8e92c4d8"
+    },
+    "dotnet-local-tools": {
+      "source": "Aaronontheweb/dotnet-skills",
+      "sourceType": "github",
+      "skillPath": "skills/local-tools/SKILL.md",
+      "computedHash": "ee537fbb815503fcab239a14c5a1648d14431fab9dd4bb132adc6ad8a44348fe"
+    },
+    "dotnet-project-structure": {
+      "source": "Aaronontheweb/dotnet-skills",
+      "sourceType": "github",
+      "skillPath": "skills/project-structure/SKILL.md",
+      "computedHash": "e34ba5ceb56dfe32af4f1f4fa899ab6b2d63ec20d31bc90423067f2c5a7cafd5"
+    },
+    "dotnet-slopwatch": {
+      "source": "Aaronontheweb/dotnet-skills",
+      "sourceType": "github",
+      "skillPath": "skills/slopwatch/SKILL.md",
+      "computedHash": "5e8140c55cbcd1c78e32f1eb491b48d56835894b94cea9755a7396a5d96a0642"
+    },
+    "dotnet-webapi": {
+      "source": "dotnet/skills",
+      "sourceType": "github",
+      "skillPath": "plugins/dotnet-aspnetcore/skills/dotnet-webapi/SKILL.md",
+      "computedHash": "9f9ca386ddefb34ebeaf269c6a7dac0bd0a8e9ea901ad5c489cd4d5e7c61fb22"
+    },
+    "efcore-patterns": {
+      "source": "Aaronontheweb/dotnet-skills",
+      "sourceType": "github",
+      "skillPath": "skills/efcore-patterns/SKILL.md",
+      "computedHash": "b3eda88aa97e7255c2b33d8ad5100db863ad36e7e1fe980e57be00b4f6b3606f"
+    },
+    "microsoft-extensions-configuration": {
+      "source": "Aaronontheweb/dotnet-skills",
+      "sourceType": "github",
+      "skillPath": "skills/microsoft-extensions-configuration/SKILL.md",
+      "computedHash": "aee9844dc85242e8896187ef70007d46feea89be92c27ab71794fb39e29850d2"
+    },
+    "modern-csharp-coding-standards": {
+      "source": "Aaronontheweb/dotnet-skills",
+      "sourceType": "github",
+      "skillPath": "skills/csharp-coding-standards/SKILL.md",
+      "computedHash": "38d6547db382a391ed740eef9d376f718639d27ecafe5bdedb981001b190acc9"
+    },
+    "platform-detection": {
+      "source": "dotnet/skills",
+      "sourceType": "github",
+      "skillPath": "plugins/dotnet-test/skills/platform-detection/SKILL.md",
+      "computedHash": "3612832d22176c7bcdb7feabca0e9e8cffc19791e7d418019b03a5c556139460"
+    }
+  }
+}
